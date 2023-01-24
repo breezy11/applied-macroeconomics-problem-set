@@ -1,0 +1,69 @@
+---
+title: "Untitled"
+author: "Ali"
+date: '23 01 2023 '
+output: pdf_document
+---
+
+
+# Problem 1 
+
+In the main lecture, you discussed the empirical estimation of the
+output-inflation tradeoff by Ball. Since the paper was published over
+30 years ago, it is interesting to see if the results have changed and if they did how.
+To obtain the ”trade-off” parameter, estimate the following equation using OLS
+
+yi,t = c + γi,t + τiΔxi,t + λiyt−1 (1)
+
+where yi,t is log real GDP, γi,t is a time trend, Δxi,t is the change in log nominal
+GDP and yi,t−1 is lagged log real GDP. i is the country indicator and t is the time
+indicator.
+τi is the variable of interest for us.
+
+## 1.a)
+
+Give the economic interpretation of τ . What does it mean if τ is low or high?
+
+## 1.b) 
+
+Choose a subset of three countries and compare your results to those of Ball et
+al. (1988). Did the parameter τ change under your period of study compared
+to that by Ball et al. (1988)?
+
+## 1.c)
+
+Equivalent to Ball et al. (1988) produce a scatterplot where τ is on the y-axis
+and mean inflation is on the x-axis. How does your graph compare to the one
+by Ball et al. (1988)?
+
+## 1.d)
+
+What are potential explanations for any cross-counry differences in τ? Hint:
+Read the lecture notes and (parts of) Ball et al. (1988).
+
+# Problem 2
+
+We want you to work on the Phillips curve by describing its theoretical
+foundation and checking whether it has been stable in selected economies.
+
+## 2.a)
+
+Describe the Phillips curve and the relationship between its variables.
+
+## 2.b)
+
+Plot the Phillips curves for Austria, France, the United Kingdom and the
+United States from 1990 until today. Plot the inflation rate on the y-axis and
+the unemployment rate on the x-axis.
+
+## 2.c)
+
+Check the stability of the Phillips curve through time. Plot the Phillips curve
+for Austria and the United Kingdom from 1971 to 1986, from 1987 to 2002 and
+from 2003 until today separately for each country in one graph.
+Does the Phillips curve change or remain constant? If it changes, explain how.
+
+## 2.d)
+
+What are possible reasons for a change in the Phillips curve over time?
+
